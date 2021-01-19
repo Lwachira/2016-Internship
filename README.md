@@ -12,7 +12,7 @@ The aim of the internship was to give soon to be grads a taste of what building 
 
  What we ended up building is a simple billing application that reads data from a database (built already for us) and spits out a CSV/Excel document based on user input. **This application fulfilled that goal to a satisfying degree**
 
- > **Sadly due to complicate legal requirement's I am not allowed to share the source code from [2018](https://github.com/Lwachira/2018-Work-History), [2019](https://github.com/Lwachira/2019-Work-History), [2020](https://github.com/Lwachira/2020-Work-History) with you. If you wish to pursue this further, we should chat, I can explain all the interesting things I built over the last 3 years**.
+ > **Sadly due to complicated legal requirement's I am not allowed to share the source code from [2018](https://github.com/Lwachira/2018-Work-History), [2019](https://github.com/Lwachira/2019-Work-History), [2020](https://github.com/Lwachira/2020-Work-History) with you. If you wish to pursue this further, we should chat, I can explain all the interesting things I built over the last 3 years**.
 
 <br/>
 	
